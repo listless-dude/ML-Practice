@@ -3,3 +3,5 @@ Practicing linear, non-linear, polynomial regression concepts. Classifications c
 
 ## Python libraries used:
 Numpy, Matplotlib, Pandas, Scikit Learn.
+
+GNU Octave or Matlab for prototyping.
